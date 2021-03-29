@@ -3,7 +3,7 @@
 > Alhamdulillah spesial ramadhan saya tambahkan alarm untuk bangunin waktu sahur, agar tidak kesiangan sahurnya dan semangat menjalankan ibadah puasanya.
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"/></a>
-<a href="https://www.codacy.com/gh/pemulabelajar/sholatkuy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/sholatkuy&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/8b077e7f8ec34328af06eaecdb4a37c4" alt="codacy badge"/></a>
+<a href="https://www.codacy.com/gh/pemulabelajar/sholatkuy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/sholatkuy&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/758c8147314846878e3d6da4ff5b6890" alt="codacy badge"/></a>
 <a href="https://github.com/pemulabelajar/sholatkuy/issues"><img src="https://img.shields.io/badge/issues%200-closed-cb2431.svg" alt="issues"/></a>
 <a href="https://github.com/pemulabelajar/sholatkuy/releases"><img src="https://img.shields.io/badge/version-1.0%20alpha-blue.svg" alt="version"/></a>
 
@@ -54,9 +54,9 @@ Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terba
 
 Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
-- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-FFA500?style=flat&logo=deezer&logoColor=white" alt="trakter"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
+- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-FEAA2D?style=flat&logo=deezer&logoColor=white" alt="trakter"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
 
-- <a href="https://trakteer.id/alantrumbull"><img src="https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white" alt="trakter"/></a> - Membintangi dan membagikan proyek yang Anda suka
+- <a href="https://trakteer.id/alantrumbull"><img src="https://img.shields.io/badge/Traktir-FF0000?style=flat&logo=ko-fi&logoColor=white" alt="trakter"/></a> - Membintangi dan membagikan proyek yang Anda suka
 
 - <a href="https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi"><img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/></a> - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
 
