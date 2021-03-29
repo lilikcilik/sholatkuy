@@ -7,7 +7,7 @@
 <a href="https://github.com/pemulabelajar/sholatkuy/issues"><img src="https://img.shields.io/badge/issues%200-closed-cb2431.svg" alt="issues"/></a>
 <a href="https://github.com/pemulabelajar/sholatkuy/releases"><img src="https://img.shields.io/badge/version-1.0%20alpha-blue.svg" alt="version"/></a>
 
-<img src="https://github.com/pemulabelajar/sholatkuy/blob/main/.image/Screenshot.png?raw=true" alt="screenshot"></a>
+<img src="https://github.com/pemulabelajar/sholatkuy/blob/master/.image/Screenshot.png?raw=true" alt="screenshot"></a>
 
 ## ℹ Informasi
 ```text
@@ -54,7 +54,7 @@ Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terba
 
 Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
-- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-DAA520?style=flat&logo=saweria&logoColor=white" alt="trakter"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
+- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-FFA500?style=flat&logo=deezer&logoColor=white" alt="trakter"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
 
 - <a href="https://trakteer.id/alantrumbull"><img src="https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white" alt="trakter"/></a> - Membintangi dan membagikan proyek yang Anda suka
 
@@ -68,4 +68,4 @@ Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk ter
 Terasa ingin berkontribusi dalam tool ini? Bagus! Fork it, pastikan bersama-sama anda berkarya dengan baik, buat PR-mu dengan informasi yang detail.
 
 ## 📜 Lisensi
-Tool ini dilisensikan di bawah Lisensi [`MIT`](https://github.com/pemulabelajar/sholatkuy/blob/main/LICENSE?raw=true). Anda bebas menggunakannya! Tapi jangan lupa untuk menghargai saya.
+Tool ini dilisensikan di bawah Lisensi [`MIT`](https://github.com/pemulabelajar/sholatkuy/blob/master/LICENSE?raw=true). Anda bebas menggunakannya! Tapi jangan lupa untuk menghargai saya.
