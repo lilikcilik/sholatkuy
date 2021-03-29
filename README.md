@@ -54,7 +54,7 @@ Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terba
 
 Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
-- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-DB7093?style=flat&logo=deezer&logoColor=white" alt="trakter"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
+- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-FE7A16?style=flat&logo=deezer&logoColor=white" alt="trakter"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
 
 - <a href="https://trakteer.id/alantrumbull"><img src="https://img.shields.io/badge/Traktir-FF0000?style=flat&logo=ko-fi&logoColor=white" alt="trakter"/></a> - Membintangi dan membagikan proyek yang Anda suka
 
