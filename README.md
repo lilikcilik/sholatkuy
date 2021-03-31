@@ -5,7 +5,7 @@
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"/></a>
 <a href="https://www.codacy.com/gh/pemulabelajar/sholatkuy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/sholatkuy&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/758c8147314846878e3d6da4ff5b6890" alt="codacy badge"/></a>
 <a href="https://github.com/pemulabelajar/sholatkuy/issues"><img src="https://img.shields.io/badge/issues%200-closed-cb2431.svg" alt="issues"/></a>
-<a href="https://github.com/pemulabelajar/sholatkuy/releases"><img src="https://img.shields.io/badge/version-1.0%20alpha-blue.svg" alt="version"/></a>
+<a href="https://github.com/pemulabelajar/sholatkuy/releases"><img src="https://img.shields.io/badge/version-1.0%20beta-blue.svg" alt="version"/></a>
 
 <img src="https://github.com/pemulabelajar/sholatkuy/blob/master/.image/Screenshot.png?raw=true" alt="screenshot"></a>
 
