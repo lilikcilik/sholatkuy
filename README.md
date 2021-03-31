@@ -56,7 +56,7 @@ Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk ter
 
 [![Saweria](https://img.shields.io/badge/Saweria-00FFFF?style=flat&logo=deezer&logoColor=white)](https://saweria.co/alantrumbull) - Silahkan yang mau nyawer bisa langsung klik aja
 
-[![Trakteer](https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white)](ttps://trakteer.id/alantrumbull) - Membintangi dan membagikan proyek yang Anda suka
+[![Trakteer](https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white)](https://trakteer.id/alantrumbull) - Membintangi dan membagikan proyek yang Anda suka
 
 [![Bitcoin Donate](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi) - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
 
