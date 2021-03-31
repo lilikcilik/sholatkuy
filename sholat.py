@@ -1,10 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# sholatkuy version 1.0 alpha spesial ramadhan
+# sholatkuy version 1.0 beta spesial ramadhan
 # Author by: @pemulabelajar
 # My Github: https://github.com/pemulabelajar/sholatkuy
 
-import sys, os, io, random
+import sys, os, random
 import subprocess as sp
 import requests
 from time import sleep
@@ -26,7 +26,7 @@ banner = """
 def restart():
       python = sys.executable
       os.execl(python, python, * sys.argv)
-      curdir = os.getcwd()
+      os.getcwd()
 
 def play():
     animation = '|/-\\'
@@ -502,7 +502,7 @@ Sedang menantikan waktu\033[96;1;2m {ss}...\033[0m\n''')
                         os.system('clear')
                         sleep(1)
                         print(banner)
-                        print(f'\n\033[0m[\033[94;1m#\033[0m] \033[97;1mWAKTUNYA BANGUN SAHUR \033[96;1;2malarm waktu sahur sudah berbunyi\n\033[0;93mKredit Sumber: \033[95;3;4m(https://youtu.be/EXjt18hF6UY)\033[0m')
+                        print('\n\033[0m[\033[94;1m#\033[0m] \033[97;1mWAKTUNYA BANGUN SAHUR \033[96;1;2malarm waktu sahur sudah berbunyi\n\033[0;93mKredit Sumber: \033[95;3;4m(https://youtu.be/EXjt18hF6UY)\033[0m')
                         puasa()
                         start()
                         break
