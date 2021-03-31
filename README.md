@@ -2,7 +2,6 @@
 
 > Alhamdulillah spesial ramadhan saya tambahkan alarm untuk bangunin waktu sahur, agar tidak kesiangan sahurnya dan semangat menjalankan ibadah puasanya.
 
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/758c8147314846878e3d6da4ff5b6890)](https://www.codacy.com/gh/pemulabelajar/sholatkuy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/sholatkuy&amp;utm_campaign=Badge_Grade)
 [![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/pemulabelajar/sholatkuy/issues)
