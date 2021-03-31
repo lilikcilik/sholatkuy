@@ -2,12 +2,13 @@
 
 > Alhamdulillah spesial ramadhan saya tambahkan alarm untuk bangunin waktu sahur, agar tidak kesiangan sahurnya dan semangat menjalankan ibadah puasanya.
 
-<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"/></a>
-<a href="https://www.codacy.com/gh/pemulabelajar/sholatkuy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/sholatkuy&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/758c8147314846878e3d6da4ff5b6890" alt="codacy badge"/></a>
-<a href="https://github.com/pemulabelajar/sholatkuy/issues"><img src="https://img.shields.io/badge/issues%200-closed-cb2431.svg" alt="issues"/></a>
-<a href="https://github.com/pemulabelajar/sholatkuy/releases"><img src="https://img.shields.io/badge/version-1.0%20beta-blue.svg" alt="version"/></a>
 
-<img src="https://github.com/pemulabelajar/sholatkuy/blob/master/.image/Screenshot.png?raw=true" alt="screenshot"></a>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/758c8147314846878e3d6da4ff5b6890)](https://www.codacy.com/gh/pemulabelajar/sholatkuy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pemulabelajar/sholatkuy&amp;utm_campaign=Badge_Grade)
+[![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/pemulabelajar/sholatkuy/issues)
+[![Version](https://img.shields.io/badge/version-1.0%20beta-blue.svg)](https://github.com/pemulabelajar/sholatkuy/releases)
+
+[![Screenshot](https://github.com/pemulabelajar/sholatkuy/blob/master/.image/Screenshot.png?raw=true)
 
 ## ℹ Informasi
 ```text
@@ -47,22 +48,22 @@ python sholat.py
 ## 📲 Kontak saya
 Terima kasih banyak kepada teman-teman yang sudah berkunjung ke halaman github, [pemulabelajar](https://github.com/pemulabelajar) untuk teman-teman yang ingin menghubungi saya untuk tujuan bertanya dan hal lainnya silahkan teman-teman bisa hubungi melalui kontak dan sosial media di bawah:
 
-- <a href="https://m.facebook.com/000alantrumbull" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"/></a> <a href="https://www.instagram.com/alantrumbull_" target="_blank"><img src="https://img.shields.io/badge/Instagram-8B89CC?style=flat&logo=instagram&logoColor=white" alt="instagram"/></a> <a href="https://api.whatsapp.com/send?phone=6285775433901" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp"/></a> <a href="https://t.me/alantrumbull" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="telegram"/></a> <a href="https://line.me/ti/p/~alantrumbull" target="_blank"><img src="https://img.shields.io/badge/LINE-00FF00?style=flat&logo=line&logoColor=white" alt="line"/></a> <a href="mailto:nedq016@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](href="https://m.facebook.com/000alantrumbull) [![instagram](https://img.shields.io/badge/Instagram-8B89CC?style=flat&logo=instagram&logoColor=white)](href="https://www.instagram.com/alantrumbull) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6285775433901) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/alantrumbull) [![line](https://img.shields.io/badge/LINE-00FF00?style=flat&logo=line&logoColor=white)](https://line.me/ti/p/~alantrumbull) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nedq016@gmail.com)
 
 ## 💖 Dukung proyek saya
 Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terbantu dengan tool ini, anda dapat mengintegrasikan dan menggunakan tool ini secara gratis, anda bahkan dapat mengubah kode sumber dan mendistribusikan kembali bahkan menjualnya kembali.
 
 Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
-- <a href="https://saweria.co/alantrumbull"><img src="https://img.shields.io/badge/Saweria-00FFFF?style=flat&logo=deezer&logoColor=white" alt="saweria"/></a> - Silahkan yang mau nyawer bisa langsung klik aja
+[![Saweria](https://img.shields.io/badge/Saweria-00FFFF?style=flat&logo=deezer&logoColor=white)](https://saweria.co/alantrumbull) - Silahkan yang mau nyawer bisa langsung klik aja
 
-- <a href="https://trakteer.id/alantrumbull"><img src="https://img.shields.io/badge/Traktir-FF0000?style=flat&logo=ko-fi&logoColor=white" alt="trakter"/></a> - Membintangi dan membagikan proyek yang Anda suka
+[![Trakteer](https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white)](ttps://trakteer.id/alantrumbull) - Membintangi dan membagikan proyek yang Anda suka
 
-- <a href="https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi"><img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/></a> - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
+[![Bitcoin Donate](https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi) - Anda dapat mengirimi bitcoin kepada saya di alamat ini ```1C5LpMbNTGrYYuGMHra9FCRWeHNeS3TgJi``` atau memindai kode di bawah:
 
-  <img src="https://github.com/pemulabelajar/pemulabelajar/blob/main/assets/qr.png?raw=true" alt="qrcode" width="100px" height="100px"/>
+<img src="https://github.com/pemulabelajar/pemulabelajar/blob/main/assets/qr.png?raw=true" alt="qrcode" width="100px" height="100px"/>
 
-  Terimakasih ❤
+Terimakasih ❤
 
 ## 😋 Berkontribusi
 Terasa ingin berkontribusi dalam tool ini? Bagus! Fork it, pastikan bersama-sama anda berkarya dengan baik, buat PR-mu dengan informasi yang detail.
