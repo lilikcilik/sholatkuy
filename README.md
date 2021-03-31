@@ -12,7 +12,7 @@
 ## ℹ Informasi
 ```text
 Nama        : sholatkuy
-Versi       : 1.0 alpha
+Versi       : 1.0 beta
 Tanggal     : 30 Maret 2021
 Author      : Pemula Belajar
 Tujuan      : Mengingatkan kita pada
@@ -37,7 +37,7 @@ git clone https://github.com/pemulabelajar/sholatkuy
 ```
 menginstal paket pendukung python pip dengan perintah di bawah ini
 ```python
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 langkah terakhir adalah menjalankan perintah
 ```python
