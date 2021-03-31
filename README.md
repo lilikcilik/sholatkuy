@@ -8,7 +8,7 @@
 [![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/pemulabelajar/sholatkuy/issues)
 [![Version](https://img.shields.io/badge/version-1.0%20beta-blue.svg)](https://github.com/pemulabelajar/sholatkuy/releases)
 
-[![Screenshot](https://github.com/pemulabelajar/sholatkuy/blob/master/.image/Screenshot.png?raw=true)
+![Screenshot](https://github.com/pemulabelajar/sholatkuy/blob/master/.image/Screenshot.png?raw=true)
 
 ## ℹ Informasi
 ```text
