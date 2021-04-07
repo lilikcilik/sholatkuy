@@ -12,7 +12,7 @@
 ## ℹ Informasi
 ```text
 Nama        : sholatkuy
-Versi       : 1.0 stable
+Versi       : 1.1 stable
 Tanggal     : 30 Maret 2021
 Author      : Pemula Belajar
 Tujuan      : Mengingatkan kita pada
