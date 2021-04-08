@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# sholatkuy version 1.1 spesial spesial ramadhan
+# sholatkuy version 1.1 stable spesial spesial ramadhan
 # Author by: @pemulabelajar
 # My Github: https://github.com/pemulabelajar/sholatkuy
 
