@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# sholatkuy version 1.0 beta spesial ramadhan
+# sholatkuy version 1.1 spesial spesial ramadhan
 # Author by: @pemulabelajar
 # My Github: https://github.com/pemulabelajar/sholatkuy
 
@@ -533,13 +533,13 @@ def choic():
 
 def sound():
       if tm('%H:%M') == o[1]:
-          nada = '.nada/saur'
+          nada = '.sound/saur'
       elif tm('%H:%M') == o[2]:
-            nada = '.nada/imsak'
+            nada = '.sound/imsak'
       elif tm('%H:%M') == o[3]:
-            nada = '.nada/fajr'
+            nada = '.sound/fajr'
       else:
-            nada = '.nada/adzan'
+            nada = '.sound/adzan'
       sp.call(['mpv '+nada],shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
 
 def sholat():
