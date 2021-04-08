@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # sholatkuy version 1.1 stable spesial ramadhan
 # Author by: @pemulabelajar
