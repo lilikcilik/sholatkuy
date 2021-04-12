@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # sholatkuy version 1.1 stable spesial ramadhan
-# Author by: @pemulabelajar
-# My Github: https://github.com/pemulabelajar/sholatkuy
+# Author by: @delapanbit
+# My Github: https://github.com/delapanbit/sholatkuy
 
 import sys, os, random
 import subprocess as sp
@@ -21,7 +21,7 @@ banner = """
 \033[92;1m       88 88    88 88.  .88 88 88.  .88  88     88  `8b. 88   88 88   88
 \033[92;1m `88888P' dP    dP `888888' 88 `88888P8  `8888b dP   `YP `88888' `88888b
 \033[92;1m                                                                     88'
-\033[92;1m [\033[97;1mv1.1\033[92;1m] \033[97;1mdiupgrade oleh @pemulabelajar ( spesial ramadhan )        \033[92;1md888'\n"""
+\033[92;1m [\033[97;1mv1.1\033[92;1m] \033[97;1mdiupgrade oleh @delapanbit ( spesial ramadhan )          \033[92;1md888'\n"""
 
 def restart():
       python = sys.executable
