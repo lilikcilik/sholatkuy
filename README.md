@@ -54,6 +54,8 @@ Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terba
 
 Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
+- [![Dana](https://img.shields.io/badge/Dana-FFA500?style=flat&logo=dana&logoColor=white)](https://saweria.co/alantrumbull) - Silahkan yang mau nyawer bisa langsung klik aja
+
 - [![Saweria](https://img.shields.io/badge/Saweria-FFA500?style=flat&logo=deezer&logoColor=white)](https://saweria.co/alantrumbull) - Silahkan yang mau nyawer bisa langsung klik aja
 
 - [![Trakteer](https://img.shields.io/badge/Trakter-FF0000?style=flat&logo=ko-fi&logoColor=white)](https://trakteer.id/alantrumbull) - Membintangi dan membagikan proyek yang Anda suka
