@@ -54,7 +54,7 @@ Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terba
 
 Jikalau, Anda mendapat untung dari ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
-- [![Dana](https://www.dana.id/_nuxt/img/dana-logo.fe46647.png)](https://www.dana.id)
+- [![Dana](https://www.dana.id/_nuxt/img/dana-logo.fe46647.png width=20px)](https://www.dana.id)
 
 - [![Dana](https://img.shields.io/badge/Dana-00BFFF?style=flat&logo=DANA&logoColor=white)](https://saweria.co/alantrumbull) - Silahkan yang mau nyawer bisa langsung klik aja
 
