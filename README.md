@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/badge/issues%200-closed-cb2431.svg)](https://github.com/delapanbit/sholatkuy/issues)
 [![Version](https://img.shields.io/badge/version-1.1%20stable-blue.svg)](https://github.com/delapanbit/sholatkuy/releases)
 
-> Alhamdulillah spesial ramadhan saya tambahkan alarm untuk bangunin waktu sahur, agar tidak kesiangan sahurnya dan semangat menjalankan ibadah puasanya.
+> Alhamdulillah spesial ** ramadhan ** saya tambahkan alarm untuk bangunin waktu sahur, agar tidak kesiangan sahurnya dan semangat menjalankan ibadah puasanya.
 
 ![Screenshot](https://github.com/pemulabelajar/sholatkuy/blob/master/.image/Screenshot.png?raw=true)
 
