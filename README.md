@@ -23,7 +23,7 @@ Terimakasih : Kepada do'a Ibu
 NB          : Manusia tidak ada yang sempurna
               sama kaya tool ini.
               Mohon laporkan kritik atau saran
-              Ke - Email: pemulabelajar@yahoo.com
+              Ke - Email: nedq016@gmail.com
                  - Telegram: https://t.me/alantrumbull
 ```
 
