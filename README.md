@@ -14,7 +14,7 @@
 Nama        : sholatkuy
 Versi       : 1.1 (update 13 April 2021 12:50 AM)
 Tanggal     : 30 Maret 2021
-Author      : Delapan Bit
+Author      : Karjok Pangesty
 Tujuan      : Mengingatkan kita pada
               waktu sholat telah tiba.
 Terimakasih : Kepada do'a Ibu
