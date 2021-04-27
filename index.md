@@ -11,7 +11,7 @@ Tanggal     : 30 Maret 2021
 Author      : Karjok Pangesty
 Tujuan      : Mengingatkan kita pada
               waktu sholat telah tiba.
-Terimakasih : Kepada do'a Ibu
+Terimakasih : Kepada doa ibu
               dan temen-temn yang
               sudah mensupport.
 NB          : Manusia tidak ada yang sempurna
@@ -22,7 +22,7 @@ NB          : Manusia tidak ada yang sempurna
 ```
 
 ## ❇ Terinspirasi dari
-Tool ini terinspirasi dari, [jadwalsholat.org](https://www.jadwalsholat.org) dengan memanfaatkan kode sumber terbuka.
+Tool ini namanya ** sholat ** buatan om [karjok pangesty](https://github.com/karjok) terimakasih kepada author ** omkarjok **
 
 ## :beginner: Cara menginstall
 Menginstal di termux, gunakan langkah-langkah untuk menginstal tool dengan cara di bawah ini, install paket terlebih dahulu yaitu: [`python`](https://www.python.org) [`mpv`](https://github.com/Neo-Oli/Termux-Mpv) [`git`](https://github.com/termux/termux-packages) ketik perintah
