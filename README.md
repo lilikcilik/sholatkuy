@@ -50,7 +50,7 @@ Terima kasih banyak kepada teman-teman yang sudah mampir ke profil github, [dela
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://m.facebook.com/000alantrumbull) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alantrumbull_) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6285775433901) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/alantrumbull) [![LINE](https://img.shields.io/badge/LINE-00FF00?style=flat&logo=line&logoColor=white)](https://line.me/ti/p/~alantrumbull) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nedq016@gmail.com)
 
 ## :sparkling_heart: Dukung proyek saya
-Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terbantu dengan tool ini, anda dapat mengintegrasikan dan menggunakan tool ini secara gratis, anda bahkan dapat mengubah kode sumber dan mendistribusikan kembali bahkan menjualnya kembali.
+Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terbantu dengan tool ini, anda dapat mengintegrasikan dan menggunakan tool ini secara gratis, anda bahkan dapat mengubah kode sumber dan mendistribusikan kembali.
 
 Jika, Anda terbantu dengan proyek ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
