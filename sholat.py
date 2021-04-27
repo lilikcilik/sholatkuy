@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # sholatkuy version 1.1 stable spesial ramadhan
-# Author by: @delapanbit
+# Upgarde by: @delapanbit
 # My Github: https://github.com/delapanbit/sholatkuy
 
 import sys, os, random
