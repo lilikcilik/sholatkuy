@@ -28,7 +28,7 @@ NB          : Manusia tidak ada yang sempurna
 ```
 
 ## :sparkle: Terinspirasi dari
-Tool ini namanya **sholat** buatan om [karjok pangesty](https://github.com/karjok) terimakasih kepada *author: omkarjok* yang telah membuat tool jadwal sholat.
+Tool ini di buat oleh [karjok pangesty](https://github.com/karjok) terimakasih sudah membuat tool jadwal sholat.
 
 ## :beginner: Cara menginstall
 Menginstal di termux, gunakan langkah-langkah untuk menginstal tool dengan cara di bawah ini, install paket terlebih dahulu yaitu: [`python`](https://www.python.org) [`mpv`](https://github.com/Neo-Oli/Termux-Mpv) [`git`](https://github.com/termux/termux-packages) ketik perintah
@@ -45,12 +45,12 @@ python sholat.py
 ```
 
 ## :calling: Kontak saya
-Terima kasih banyak kepada teman-teman yang sudah mampir ke profil github, [delapanbit](https://github.com/delapanbit) untuk teman-teman yang ingin menghubungi saya untuk tujuan bertanya dan hal lainnya silahkan teman-teman bisa hubungi melalui kontak dan sosial media di bawah:
+Terima kasih banyak kepada teman-teman yang sudah mampir ke profil github, [**delapanbit**](https://github.com/delapanbit) untuk teman-teman yang ingin menghubungi saya untuk tujuan bertanya dan hal lainnya silahkan teman-teman bisa hubungi melalui kontak dan sosial media di bawah:
 
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://m.facebook.com/000alantrumbull) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alantrumbull_) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6285775433901) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/alantrumbull) [![LINE](https://img.shields.io/badge/LINE-00FF00?style=flat&logo=line&logoColor=white)](https://line.me/ti/p/~alantrumbull) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nedq016@gmail.com)
 
 ## :sparkling_heart: Dukung proyek saya
-Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terbantu dengan tool ini, anda menggunakan tool ini secara gratis.
+Saya membuat kode sebisa mungkin, dan saya berharap agar semua orang dapat terbantu dengan tool ini, dan menggunakan tool ini secara gratis.
 
 Jika, Anda terbantu dengan proyek ini atau hanya ingin mendorong saya untuk terus berkarya, ada beberapa cara yang dapat Anda lakukan:
 
