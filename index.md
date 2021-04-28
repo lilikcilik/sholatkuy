@@ -31,7 +31,7 @@ git clone https://github.com/delapanbit/sholatkuy
 ```
 menginstal paket pendukung python pip dengan perintah di bawah ini
 ```python
-pip install -r requirement.txt
+pip install -r module.txt
 ```
 langkah terakhir adalah menjalankan perintah
 ```python
